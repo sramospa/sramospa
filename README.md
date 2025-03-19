@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Sramospa!
+# 👋 ¡Hola, soy Sindy!
 
 ## 🚀 Sobre mí
 

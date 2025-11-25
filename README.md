@@ -19,5 +19,8 @@ Aquí encontrarás ejercicios y pequeñas aplicaciones para reforzar mis conocim
 📌 Notion para organizar apuntes.
 📌 GitHub para control de versiones y compartir proyectos.
 
-📈 Objetivo
-Seguir mejorando mis habilidades para aplicar a oportunidades laborales en desarrollo backend con Java y Oracle.
+🎯 Mi Objetivo
+
+Seguir fortaleciendo mis habilidades para aplicar a oportunidades en desarrollo backend con Java, complementando mi experiencia previa en el ecosistema Oracle.
+
+Mi meta: convertirme en una desarrolladora aún más completa, sólida y confiable… como se ha procurado siempre en esta profesión.
